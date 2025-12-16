@@ -224,6 +224,6 @@ console.log(AddFunc(12,34), SubFunc(5,2));
 
 ---
 
-#  Made By @Nishant Chauhan
+#  Made By @Nishant
 
 
