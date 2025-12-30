@@ -1,6 +1,6 @@
 const { Transform } = require("stream");
 
-const transformStream = new Transform({
+const transformStream = new Transform({ 
   transform(chunk, encoding, callback) {
     const modifiedWord = chunk
       .toString()
